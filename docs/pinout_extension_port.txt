@@ -1,0 +1,26 @@
+Created by DF8OE
+----------------
+
+
+
+view into port from outside
+
+
+______________________|           |______________________
+|                                                       |
+|   1           2           3           4           5   |
+|                                                       |
+|   6           7           8           9          10   |
+|_______________________________________________________|
+
+
+ 1 - SWDIO (PA13)
+ 2 - RST
+ 3 - MCU switched 3.3V out to external device
+ 4 - I2C2_SCL (PB10)
+ 5 - GND
+ 6 - GND
+ 7 - SWCLK (PA14)
+ 8 - +U_Battery
+ 9 - +VDD_MCU
+10 - I2C2_SDA (PB11)
